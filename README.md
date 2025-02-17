@@ -1,5 +1,5 @@
 ## Introduction
-Walmart, the largest retail store in the U.S., has expanded its e-commerce operations, generating $80 billion in sales by the end of 2022—13% of its total revenue. Public holidays, such as the Super Bowl, Labor Day, Thanksgiving, and Christmas, significantly influence Walmart's sales patterns.
+Walmart, the largest retail store in the U.S., has expanded its e-commerce operations, generating $80 billion in sales by the end of 2022, which is 13% of its total revenue. Public holidays, such as the Super Bowl, Labor Day, Thanksgiving, and Christmas, significantly influence Walmart's sales patterns.
 
 This project focuses on developing a data pipeline to analyze supply and demand trends around holidays using two data sources: grocery sales data stored in a PostgreSQL database and complementary data in a Parquet file.
 
