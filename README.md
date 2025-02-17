@@ -10,5 +10,5 @@ This project focuses on developing a data pipeline to analyze supply and demand 
 - Extract relevant features: Store_ID, Month, Dept, IsHoliday, Weekly_Sales, CPI, Unemployment.
 ## Data Aggregation & Analysis
 - Conduct a preliminary analysis of monthly sales trends across Walmart stores.
--Store aggregated results in agg_data, summarizing total Weekly_Sales per month.
+- Store aggregated results in agg_data, summarizing total Weekly_Sales per month.
 ## Output & Storage
